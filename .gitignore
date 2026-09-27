@@ -1,8 +1,25 @@
-# Uploaded resumes
+# ==============================
+# Frontend
+# ==============================
+node_modules/
+dist/
+.env
+.env.local
+
+# ==============================
+# Backend
+# ==============================
+ai-recruitment-portal/target/
 ai-recruitment-portal/uploads/
 
-# VS Code
+# ==============================
+# IDE
+# ==============================
 .vscode/
+.idea/
+*.iml
 
-# Java build
-ai-recruitment-portal/target/
+# ==============================
+# Java / Maven
+# ==============================
+*.class
