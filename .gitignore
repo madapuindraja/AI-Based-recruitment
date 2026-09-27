@@ -1,0 +1,8 @@
+# Uploaded resumes
+ai-recruitment-portal/uploads/
+
+# VS Code
+.vscode/
+
+# Java build
+ai-recruitment-portal/target/
